@@ -36,4 +36,4 @@
 
 ## Hurrah Completed :-)
 
-> Thanks for reading this.
+> Thanks for reading.
