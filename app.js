@@ -43,6 +43,8 @@ mongoose
   .connect("mongodb://localhost/backend-assignment", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
+    useFindAndModify: false,
+    useCreateIndex: true,
   })
   .then(() => {
     console.log("Database Connected");

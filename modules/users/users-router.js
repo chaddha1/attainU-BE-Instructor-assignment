@@ -7,6 +7,6 @@ const userMiddleware = require("../middlewares/users");
  * @description : This endpoint is used by the users (admin or students) to login
  */
 
-router.get("login", controller.login);
+router.post("/login", userMiddleware.validateUserData, controller.login);
 
 module.exports = router;
