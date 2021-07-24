@@ -34,6 +34,6 @@
 
 - All these endpoints are created as per this document [AttainU Instructor Hiring - Backend Assignments](https://docs.google.com/document/d/1-4cEsZzMAAg7p6Nus9n9WxpdKSOWsxBm6G6UD1yUaFE/edit?usp=sharing) .
 
-## Hurrah Completed :-)
+## Hurrah !!! Completed :-)
 
 > Thanks for reading.
