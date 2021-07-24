@@ -25,3 +25,13 @@
 > Now you are ready to start this application using `npm start` command.
 
 - This will create a default admin with the credentials you will set in the `.env` file.
+
+## Postman collection 
+
+> A postman collection is attached here, you can refer this to hit the endpoints provided in the application. [attached postman collection](https://www.getpostman.com/collections/fde4c9ee4c6c593af65c) .
+
+- All these endpoints are created as per this document [AttainU Instructor Hiring - Backend Assignments](https://docs.google.com/document/d/1-4cEsZzMAAg7p6Nus9n9WxpdKSOWsxBm6G6UD1yUaFE/edit?usp=sharing) .
+
+## Hurrah Completed :-)
+
+> Thanks for reading this.
