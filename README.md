@@ -30,6 +30,8 @@
 
 > A postman collection is attached here, you can refer this to hit the endpoints provided in the application. [attached postman collection](https://www.getpostman.com/collections/fde4c9ee4c6c593af65c) .
 
+- To use this postman collection open it, copy the link from URL and import it inside your postman desktop client.
+
 - All these endpoints are created as per this document [AttainU Instructor Hiring - Backend Assignments](https://docs.google.com/document/d/1-4cEsZzMAAg7p6Nus9n9WxpdKSOWsxBm6G6UD1yUaFE/edit?usp=sharing) .
 
 ## Hurrah Completed :-)
